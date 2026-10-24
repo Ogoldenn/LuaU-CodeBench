@@ -1,0 +1,31 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Hidden evaluator bundle must never be committed
+private-evaluator/
+tasks/*/hidden/
+
+# Local outputs and logs
+runs/
+results/raw/
+*.log
+*.transcript.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Roblox Studio local files
+*.rbxl
+*.rbxlx
+*.rbxl.lock

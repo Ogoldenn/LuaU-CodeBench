@@ -1,0 +1,18 @@
+{
+  "name": "LuauCodeBench_T01_Cooldown",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "CodeBench": {
+        "$path": "src/ReplicatedStorage/CodeBench"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "CodeBench": {
+        "$path": "src/ServerScriptService/CodeBench"
+      }
+    }
+  }
+}

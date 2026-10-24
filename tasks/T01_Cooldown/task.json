@@ -1,0 +1,10 @@
+{
+  "id": "T01",
+  "name": "Cooldown Manager",
+  "version": "0.1.0",
+  "tier": 1,
+  "time_limit_sec": 600,
+  "max_tool_calls": 60,
+  "language": "Luau",
+  "evaluation": "static_plus_luau_runtime"
+}

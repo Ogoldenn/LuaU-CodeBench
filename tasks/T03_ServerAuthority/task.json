@@ -1,0 +1,10 @@
+{
+  "id": "T03",
+  "name": "Server-Authoritative Ability Request",
+  "version": "0.1.0",
+  "tier": 2,
+  "time_limit_sec": 1200,
+  "max_tool_calls": 100,
+  "language": "Luau",
+  "evaluation": "roblox_runtime_plus_static_invariants"
+}

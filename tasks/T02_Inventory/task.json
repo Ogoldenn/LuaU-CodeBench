@@ -1,0 +1,10 @@
+{
+  "id": "T02",
+  "name": "Inventory Service",
+  "version": "0.1.0",
+  "tier": 1,
+  "time_limit_sec": 900,
+  "max_tool_calls": 80,
+  "language": "Luau",
+  "evaluation": "static_plus_luau_runtime"
+}

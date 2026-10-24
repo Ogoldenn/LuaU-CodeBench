@@ -1,0 +1,24 @@
+{
+  "name": "LuauCodeBench_T03_ServerAuthority",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "CodeBench": {
+        "$path": "src/ReplicatedStorage/CodeBench"
+      },
+      "Remotes": {
+        "$className": "Folder",
+        "AbilityRequest": {
+          "$className": "RemoteEvent"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "CodeBench": {
+        "$path": "src/ServerScriptService/CodeBench"
+      }
+    }
+  }
+}
